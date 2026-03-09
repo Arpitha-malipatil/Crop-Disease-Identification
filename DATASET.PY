@@ -1,3 +1,4 @@
+#THIS FILE IS USED TO INHERIT THE PROPERTY TO OTHER PY FILE
 import os
 import subprocess
 import gdown
@@ -59,4 +60,5 @@ def main():
 
 # This ensures the main() function only runs if we execute this file directly
 if __name__ == "__main__":
+
     main()

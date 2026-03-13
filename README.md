@@ -20,10 +20,6 @@ A machine learning project that identifies plant leaf diseases using **SVM**, **
 | 8 | `step08_model_evaluation_Rudresh.ipynb` | Model Evaluation | Rudresh |
 | 9 | `step09_model_architecture_Shankar.ipynb` | Architecture & Visualisation | Shankar |
 | 10 | `step10_frontend_deployment_Sneha.ipynb` + `app.py` | Frontend Deployment | Sneha |
-| 11 | ` Documentation | Pavan C |
-
-**Guide:** Sumethra Devi Ma'am  
-**Institution:** Dayananda Sagar Academy of Technology and Management
 
 ---
 
